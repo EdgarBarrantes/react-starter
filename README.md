@@ -1,6 +1,5 @@
 
-This is a starter with react, sass.
-It will soon include styleguidist, redux. 
+This is a starter with react, redux, bootstrap, reactstrap, hot module realoder, react-hot-reloader and sass.
 
 Install dependencies.
 
