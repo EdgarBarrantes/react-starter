@@ -9,7 +9,3 @@ Install dependencies.
 Watches for file changes and compiles.
 
 `yarn dev`
-
-Starts the server in port 3000.
-
-`yarn start`
